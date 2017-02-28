@@ -1,4 +1,4 @@
-# hello viewer i am a beginner here is my first code . hope u will like it and suggest me if some better changes in this file can be made 
+# hello viewer i am a beginner here is my first code . hope u will like it and suggest me if some better changes can be made in this snippet
 <html>
 <body>
 <script type="text/javascript">
